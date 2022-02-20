@@ -1,22 +1,23 @@
-# Project Title
+# Tailwind CSS simple one page ecommerce website
 
-A brief description of what this project does and who it's for
+Tailwind CSS is basically a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, low-level CSS framework that gives us all of the building blocks we need to build bespoke designs without any annoying opinionated styles we have to fight to override.
 
 ## Demo
 
-Insert gif or link to demo
+https://shajal-kumer.github.io/tailwind-css-simple-ecommerce-site-one/
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+-   use of different type of tailwind utility classes
+-   responsive utility classes
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](demo.png)
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Javascript, GSAP
+**Client:** HTML, CSS, Tailwind CSS
 
 ## 🚀 About Me
 
@@ -30,6 +31,4 @@ I'm a front-end developer with backend knowledge.
 
 ## Acknowledgements
 
--   [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
--   [Awesome README](https://github.com/matiassingers/awesome-readme)
--   [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+-   [Design Responsive eCommerce Website with Tailwind CSS](https://www.youtube.com/watch?v=iNDvh7O2WZM)
